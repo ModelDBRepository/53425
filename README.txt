@@ -1,5 +1,5 @@
 README file for
-J. Neural Eng. 2 (2005) 17–34
+J. Neural Eng. 2 (2005) 17â€“34
 simulation .m files
 
 These files were created with and run with Matlab version 7.0 (R14), with
