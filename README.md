@@ -85,9 +85,9 @@ Copy all the m-files to a single directory on your computer. To use them, set th
   - recommend using twitch.m if possible as *_memory.m functions increase run time of Fig12.m substantially
 - **Visolve.m**
 
-Lora Major
-June 3, 2005
-lora.major@ualberta.ca
+Lora Major  
+June 3, 2005  
+lora.major@ualberta.ca  
 (780) 492-4351
 
 ---
